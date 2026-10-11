@@ -20,3 +20,5 @@ Thumbs.db
 
 #External datasets
 data/Daily Household Transactions.csv
+
+data/processed/
