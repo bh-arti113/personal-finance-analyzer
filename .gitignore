@@ -22,3 +22,7 @@ Thumbs.db
 data/Daily Household Transactions.csv
 
 data/processed/
+
+
+# Generated analysis reports
+reports/
