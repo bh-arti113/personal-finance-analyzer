@@ -4,6 +4,12 @@
 
 **Source Code:** [GitHub Repository](https://github.com/bh-arti113/personal-finance-analyzer)
 
+🎥 **[Watch the Project Walkthrough](https://youtu.be/cE6pDHRg8cc)**
+
+Explore the dashboard's financial overview, monthly trends, spending breakdowns, unusual-expense flags, and automated insights.
+
+**Tech stack:** Python · Pandas · NumPy · Streamlit · Matplotlib · Seaborn
+
 An interactive Python dashboard for exploring income, expenses, transfers, and spending patterns using transaction data.
 
 Built with **Python, Pandas, NumPy, and Streamlit**.
