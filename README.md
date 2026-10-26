@@ -1,5 +1,9 @@
 # 💰 Personal Finance Analyzer
 
+**Live Demo:** [Try the Personal Finance Analyzer](https://personal-finance-analyzer-5zr6mbejtenuyobv6wzf6f.streamlit.app/)
+
+**Source Code:** [GitHub Repository](https://github.com/bh-arti113/personal-finance-analyzer)
+
 An interactive Python dashboard for exploring income, expenses, transfers, and spending patterns using transaction data.
 
 Built with **Python, Pandas, NumPy, and Streamlit**.
